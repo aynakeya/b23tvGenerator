@@ -45,6 +45,7 @@ if($_GET['jurl']){
 
       </script>
     </div>
+    <a href="https://github.com/LXG-Shadow/b23tvGenerator">代码在这里</a>
     <!-- <script type="application/javascript">function getQueryVariable(variable) {
         var query = window.location.search.substring(1);
         var vars = query.split("&");
